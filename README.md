@@ -11,6 +11,14 @@ This app allows users to increment, decrement, reset the counter, and also set a
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Deployed on **Vercel**
+
+👉 https://pr-2-counter-sigma.vercel.app
+
+---
+
 ## 🚀 Features
 
 - ➕ Increment counter
